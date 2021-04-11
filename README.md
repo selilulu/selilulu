@@ -14,4 +14,8 @@ A soon to be front-end developer that has a strong interest in creating user-fri
 - 🤔 I’m looking for help with learning new techniques and way of thinking
 - 💬 Ask me about whatever you feel like asking.
 - 📫 How to reach me: Here is my e-mail :selin.tezel@hotmail.com
+
+
+[![HitCount](http://hits.dwyl.com/selilulu/selilulu.svg)](http://hits.dwyl.com/selilulu/selilulu)
+
  
