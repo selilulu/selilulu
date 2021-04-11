@@ -7,7 +7,7 @@ A soon to be front-end developer that has a strong interest in creating user-fri
 
 #### Skills: 
 * :atom: REACT
-*  HTML / CSS / Javascript
+* :computer: HTML / CSS / Javascript
 
 - 🔭 I’m currently working on learning React. 
 - 🌱 I’m currently learning Javascript frameworks and libraries.
